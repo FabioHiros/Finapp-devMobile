@@ -1,0 +1,6 @@
+[submodule "serverside"]
+	path = serverside
+	url = https://github.com/FabioHiros/finApp.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/FabioHiros/finAppMobile.git
