@@ -55,7 +55,7 @@ Fornecer uma plataforma completa e intuitiva que incentive boas práticas financ
 | 2 | 1 | Alta | 5 | Como usuário, quero fazer login seguro com JWT, para proteger meus dados financeiros | ✅ |
 | 3 | 1 | Alta | 8 | Como usuário, quero registrar receitas e despesas com valores, categorias e datas, para acompanhar minha movimentação financeira | ✅ |
 | 4 | 1 | Alta | 5 | Como usuário, quero criar e gerenciar categorias personalizadas, para organizar minhas transações | ✅ |
-| 5 | 1 | Alta | 3 | Como usuário, quero receber sugestões automáticas de categorias baseadas em transações anteriores, para agilizar o cadastro | ✅ |
+| 5 | 1 | Alta | 3 | Como usuário, quero receber sugestões automáticas de categorias baseadas em transações anteriores, para agilizar o cadastro | ❌ |
 | 6 | 1 | Alta | 8 | Como usuário, quero criar orçamentos personalizados por categoria e período, para controlar meus gastos | ✅ |
 | 7 | 1 | Alta | 5 | Como usuário, quero definir limites de gastos mensais por categoria, para manter o controle financeiro | ✅ |
 | 8 | 1 | Alta | 8 | Como usuário, quero receber alertas automáticos quando me aproximar dos limites de orçamento, para evitar gastos excessivos | ✅ |
@@ -75,7 +75,6 @@ Fornecer uma plataforma completa e intuitiva que incentive boas práticas financ
 | 22 | 3 | Baixa | 5 | Como usuário, quero personalizar a interface com temas e cores, para uma experiência mais agradável | ❌ |
 | 23 | 3 | Baixa | 3 | Como usuário, quero acessar conteúdo educativo sobre finanças, para aprender conceitos importantes | ❌ |
 | 24 | 3 | Baixa | 8 | Como usuário, quero receber atualizações automáticas do app, para ter sempre as melhorias de segurança | ❌ |
-| 25 | 3 | Baixa | 8 | Como usuário, quero receber sugestões de categorias | ❌ |
 
 ### Legenda de Status:
 - ✅ **Implementado**: Funcionalidade completamente desenvolvida e funcional
