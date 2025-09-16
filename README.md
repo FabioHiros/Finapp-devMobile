@@ -75,6 +75,7 @@ Fornecer uma plataforma completa e intuitiva que incentive boas práticas financ
 | 22 | 3 | Baixa | 5 | Como usuário, quero personalizar a interface com temas e cores, para uma experiência mais agradável | ❌ |
 | 23 | 3 | Baixa | 3 | Como usuário, quero acessar conteúdo educativo sobre finanças, para aprender conceitos importantes | ❌ |
 | 24 | 3 | Baixa | 8 | Como usuário, quero receber atualizações automáticas do app, para ter sempre as melhorias de segurança | ❌ |
+| 25 | 3 | Baixa | 8 | Como usuário, quero receber sugestões de categorias | ❌ |
 
 ### Legenda de Status:
 - ✅ **Implementado**: Funcionalidade completamente desenvolvida e funcional
