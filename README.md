@@ -28,6 +28,9 @@ Fornecer uma plataforma completa e intuitiva que incentive boas práticas financ
 - 🔄 Integrar com instituições bancárias para importação de dados
 - 🔄 Permitir exportação de dados em formatos PDF e planilhas
 
+## 📌  MVP
+https://github.com/user-attachments/assets/5c705ff6-b428-4d58-a87d-30a47ea09e06
+
 ## 🛠️ Tecnologias Utilizadas
 
 ### Backend
@@ -52,29 +55,26 @@ Fornecer uma plataforma completa e intuitiva que incentive boas práticas financ
 | RANK | SPRINT | PRIORIDADE | ESTIMATIVA | USER STORY (NOME) | STATUS |
 |:----:|:------:|:----------:|:----------:|:-----------------:|:------:|
 | 1 | 1 | Alta | 8 | Como usuário, quero criar um perfil individual com minhas informações básicas, para personalizar minha experiência financeira | ✅ |
-| 2 | 1 | Alta | 5 | Como usuário, quero fazer login seguro com JWT, para proteger meus dados financeiros | ✅ |
-| 3 | 1 | Alta | 8 | Como usuário, quero registrar receitas e despesas com valores, categorias e datas, para acompanhar minha movimentação financeira | ✅ |
-| 4 | 1 | Alta | 5 | Como usuário, quero criar e gerenciar categorias personalizadas, para organizar minhas transações | ✅ |
-| 5 | 1 | Alta | 3 | Como usuário, quero receber sugestões automáticas de categorias baseadas em transações anteriores, para agilizar o cadastro | ✅ |
-| 6 | 1 | Alta | 8 | Como usuário, quero criar orçamentos personalizados por categoria e período, para controlar meus gastos | ✅ |
-| 7 | 1 | Alta | 5 | Como usuário, quero definir limites de gastos mensais por categoria, para manter o controle financeiro | ✅ |
-| 8 | 1 | Alta | 8 | Como usuário, quero receber alertas automáticos quando me aproximar dos limites de orçamento, para evitar gastos excessivos | ✅ |
-| 9 | 1 | Alta | 13 | Como usuário, quero usar o app offline e sincronizar automaticamente quando conectar, para ter acesso sempre | ✅ |
-| 10 | 1 | Média | 8 | Como usuário, quero criar metas de economia com objetivos e prazos, para alcançar meus sonhos financeiros | ✅ |
-| 11 | 1 | Média | 5 | Como usuário, quero acompanhar o progresso das minhas metas de economia, para me manter motivado | ✅ |
-| 12 | 1 | Média | 8 | Como usuário, quero programar lembretes de contas a pagar, para não esquecer pagamentos importantes | ✅ |
-| 13 | 1 | Média | 5 | Como usuário, quero configurar transações recorrentes, para automatizar registros mensais | ✅ |
-| 14 | 1 | Média | 8 | Como usuário, quero consultar histórico detalhado de movimentações, para revisar gastos e receitas passados | ✅ |
-| 15 | 1 | Média | 8 | Como usuário, quero visualizar análise de fluxo de caixa mensal, para saber se estou positivo ou negativo | ✅ |
-| 16 | 2 | Baixa | 5 | Como administrador, quero gerenciar conteúdo educacional sobre finanças, para educar os usuários | 🔄 |
-| 17 | 2 | Alta | 8 | Como usuário, quero receber notificações motivacionais sobre o progresso das metas, para me manter engajado | 🔄 |
-| 18 | 2 | Média | 13 | Como usuário, quero visualizar relatórios em gráficos e tabelas, para entender meus padrões de gasto | ❌ |
-| 19 | 2 | Baixa | 5 | Como usuário, quero usar autenticação biométrica, para maior segurança e praticidade | ❌ |
-| 20 | 3 | Alta | 13 | Como usuário, quero integrar minhas contas bancárias, para importar transações automaticamente | ❌ |
-| 21 | 3 | Média | 8 | Como usuário, quero exportar meus dados em PDF ou planilhas, para arquivar ou compartilhar informações | ❌ |
-| 22 | 3 | Baixa | 5 | Como usuário, quero personalizar a interface com temas e cores, para uma experiência mais agradável | ❌ |
-| 23 | 3 | Baixa | 3 | Como usuário, quero acessar conteúdo educativo sobre finanças, para aprender conceitos importantes | ❌ |
-| 24 | 3 | Baixa | 8 | Como usuário, quero receber atualizações automáticas do app, para ter sempre as melhorias de segurança | ❌ |
+| 2 | 1 | Alta | 8 | Como usuário, quero registrar receitas e despesas com valores, categorias e datas, para acompanhar minha movimentação financeira | ✅ |
+|3| 1 | Alta | 5 | Como usuário, quero criar e gerenciar categorias personalizadas, para organizar minhas transações | ✅ |
+| 4 | 1 | Alta | 3 | Como usuário, quero receber sugestões automáticas de categorias baseadas em transações anteriores, para agilizar o cadastro | ✅ |
+| 5 | 1 | Alta | 8 | Como usuário, quero criar orçamentos personalizados por categoria e período, para controlar meus gastos | ✅ |
+| 6 | 1 | Alta | 5 | Como usuário, quero definir limites de gastos mensais por categoria, para manter o controle financeiro | ✅ |
+| 7| 1 | Alta | 8 | Como usuário, quero receber alertas automáticos quando me aproximar dos limites de orçamento, para evitar gastos excessivos | ✅ |
+| 8| 1 | Alta | 13 | Como usuário, quero usar o app offline e sincronizar automaticamente quando conectar, para sempre ter dados atualizados | ✅ |
+| 9 | 1 | Média | 8 | Como usuário, quero criar metas de economia com objetivos e prazos, para alcançar meus sonhos financeiros | ✅ |
+| 10 | 1 | Média | 5 | Como usuário, quero acompanhar o progresso das minhas metas de economia, para me manter motivado | ✅ |
+| 11 | 1 | Média | 8 | Como usuário, quero programar lembretes de contas a pagar, para não esquecer pagamentos importantes | ✅ |
+| 12 | 1 | Média | 5 | Como usuário, quero configurar transações recorrentes, para automatizar registros mensais | ✅ |
+| 13 | 1 | Média | 8 | Como usuário, quero consultar histórico detalhado de movimentações, para revisar gastos e receitas passados | ✅ |
+| 14 | 1 | Média | 8 | Como usuário, quero visualizar análise de fluxo de caixa mensal, para saber se estou positivo ou negativo | ✅ |
+| 15 | 2 | Alta | 8 | Como usuário, quero receber notificações motivacionais sobre o progresso das metas, para me manter engajado |  ✅  |
+| 16 | 2 | Média | 13 | Como usuário, quero visualizar relatórios em gráficos e tabelas, para entender meus padrões de gasto |  ✅  |
+| 17 | 3 | Alta | 13 | Como usuário, quero integrar minhas contas bancárias, para importar transações automaticamente |  ✅  |
+| 18 | 3 | Média | 8 | Como usuário, quero exportar meus dados em PDF ou planilhas, para arquivar ou compartilhar informações |  ✅  |
+| 19 | 3 | Baixa | 5 | Como usuário, quero personalizar a interface com temas e cores, para uma experiência mais agradável |  ✅  |
+| 20 | 3 | Baixa | 3 | Como usuário, quero acessar conteúdo educativo sobre finanças, para aprender conceitos importantes |  ✅  |
+| 21 | 3 | Baixa | 8 | Como usuário, quero receber atualizações automáticas do app, para ter sempre as melhorias de segurança |  ✅  |
 
 ### Legenda de Status:
 - ✅ **Implementado**: Funcionalidade completamente desenvolvida e funcional
